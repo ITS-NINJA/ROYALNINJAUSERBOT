@@ -102,7 +102,7 @@
 NINJA@Debian~ $ apt-get -y update
 NINJA@Debian~ $ apt-get -y install git gcc python3-dev
 NINJA@Debian~ $ git clone https://github.com/ITS-NINJA/ROYALNINJAUSERBOT
-NINJA@Debian~ $ cd ZAID-USERBOT
+NINJA@Debian~ $ cd ROYALNINJAUSERBOT
 NINJA@Debian~ $ pip3 install -U-r requirements.txt
 NINJA@Debian~ $ nano config.py
 ```
