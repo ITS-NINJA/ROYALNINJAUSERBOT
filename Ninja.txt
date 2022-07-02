@@ -1,0 +1,4 @@
+git clone https://github.com/ITS-NINJA/ROYALNINJAUSERBOT Ninja
+cd Ninja
+pip3 install -U -r requirements.txt
+python3 main.py
